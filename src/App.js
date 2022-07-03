@@ -16,7 +16,7 @@ function App() {
           </Route>
         
  
-          <Route path='/search'>
+          <Route path='/search' exact>
             
                 <Searchscreen/>
 
